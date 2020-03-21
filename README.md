@@ -1,5 +1,7 @@
 # de-best-encoder-lol
 
-## Just for fun with friends :s
+### Open < info.py > to learn more
 
-## Open < info.py > to learn more
+#### Just for fun with friends :S
+
+##### May be will be apdated in future ¯\_(ツ)_/¯
