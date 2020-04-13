@@ -1,10 +1,18 @@
 from API import Encoder
 
-encoder = Encoder()
-
 # English only support
+
+# Usign Example
 text = 'hello'
 
-text = (encoder.coding(text))  # ->  |-|.☰.|_.|_..☢.
+text = Encoder.coding(text)  # ->  |-|.☰.|_.|_..☢.
 
-text = (encoder.encoding(text))  # ->  HELLO
+text = Encoder.encoding(text) # ->  hello
+
+# OR
+text = input()
+text = Encoder.coding(text)
+print(text)
+
+text = Encoder.encoding(text)
+print(text)
