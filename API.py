@@ -42,6 +42,10 @@ class Encoder:
 
     @staticmethod
     def coding(text: str) -> str:
+        """
+            Coding input text argument;
+            Returns text in encoding.
+        """
         text = list(itertools.chain(text.upper()))
         coded_text = []
         for letter in text:
@@ -59,6 +63,10 @@ class Encoder:
 
     @staticmethod
     def encoding(text: str) -> str:
+        """
+            Encoding `text` argument;
+            Returning text in English Language.
+        """
         text = [text[i:i + 3] for i in range(0, len(text), 3)]
         encoded_text = []
         for letter in text:

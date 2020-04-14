@@ -1,3 +1,5 @@
+# ~-~ Author: Ythosa ~-~ #
+
 from API import Encoder
 
 # English only support
@@ -16,3 +18,6 @@ print(text)
 
 text = Encoder.encoding(text)
 print(text)
+
+# print(help(Encoder.encoding))
+# print(help(Encoder.coding))
