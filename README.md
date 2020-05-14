@@ -19,4 +19,4 @@
 
 # Description
 -    Just for fun with friends :S
--    May be will be apdated in future ¯\\_(ツ)_/¯
+-    May be will be updated in future ¯\\_(ツ)_/¯
