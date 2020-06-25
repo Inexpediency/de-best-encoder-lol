@@ -10,13 +10,13 @@
 
 </div>
 
-# Install
+## Install
 -   download [Python](https://www.python.org/ftp/python)
 -   clone this repo: `git clone https://github.com/Ythosa/de-best-encoder-lol`
 -   run: `info.py`
 
 <br>
 
-# Description
+## Description
 -    Just for fun with friends :S
--    May be will be updated in future ¯\\_(ツ)_/¯
+-    May be will be updated in future ¯\\__(ツ)__/¯
